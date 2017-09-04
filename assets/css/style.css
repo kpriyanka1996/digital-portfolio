@@ -1,6 +1,6 @@
 ﻿/*=============================================================
     Authour URL: www.designbootstrap.com
-    
+
     http://www.designbootstrap.com/
 
     License: MIT
@@ -10,7 +10,7 @@
     100% Free To use For Personal And Commercial Use.
 
     IN EXCHANGE JUST TELL PEOPLE ABOUT THIS WEBSITE
-   
+
 ========================================================  */
 
 /*==============================
@@ -23,7 +23,10 @@ body {
     font-family: 'Maven Pro', sans-serif;
     line-height: 25px;
 }
-
+.img-circle{
+  height:80px !important;
+  width:80px !important;
+}
 .pad-bottom {
     padding-bottom: 60px;
 }
