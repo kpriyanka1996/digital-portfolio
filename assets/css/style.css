@@ -23,7 +23,8 @@ body {
     font-family: 'Maven Pro', sans-serif;
     line-height: 25px;
 }
-.img-square{
+.img-circle{
+    display: block;
   height:180px !important;
   width:180px !important;
 }
