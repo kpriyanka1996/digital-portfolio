@@ -25,8 +25,8 @@ body {
 }
 .img-circle{
     display: block;
-  height:180px !important;
-  width:180px !important;
+  height:100px !important;
+  width:100px !important;
 }
 .pad-bottom {
     padding-bottom: 60px;
